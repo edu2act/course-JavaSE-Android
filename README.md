@@ -9,13 +9,15 @@
 
 | 章节 | 简介 | 资料 |
 |-----|-----|-----|
-|第0章 课程简介|课程意义、课程介绍、参考资料、学习路线|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01/第0章%20课程简介)|
-|第1章 Java概述|Java语言的历史、Java语言的特点、Java的平台及主要应用方向、Java的工作原理、开发环境搭建、Java程序的基本结构、Eclipse的安装及使用、Java注释|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01/第1章%20Java概述)|
-|第2章 Java基础|标识符、关键字、数据类型、运算符和表达式、流程控制|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch02/第2章%20Java基础)|
-|第3章 数组|数组概述、一维数组、Arrays类、二维数组|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch03/第3章%20数组)|
-|第4章 类和对象|类和对象概述、类的成员方法、垃圾回收机制、包的使用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch04/第4章%20类和对象)|
-|第5章 类的封装|封装的概念、封装的好处、类与封装、访问修饰符|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch05/第5章%20类的封装)|
-
+|第0章 课程简介|课程意义、课程介绍、参考资料、学习路线|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01/第0章%20课程简介.pptx)|
+|第1章 Java概述|Java语言的历史、Java语言的特点、Java的平台及主要应用方向、Java的工作原理、开发环境搭建、Java程序的基本结构、Eclipse的安装及使用、Java注释|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01/第1章%20Java概述.pptx)|
+|第2章 Java基础|标识符、关键字、数据类型、运算符和表达式、流程控制|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch02/第2章%20Java基础.pptx)|
+|第3章 数组|数组概述、一维数组、Arrays类、二维数组|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch03/第3章%20数组.pptx)|
+|第4章 类和对象|类和对象概述、类的成员方法、垃圾回收机制、包的使用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch04/第4章%20类和对象.pptx)|
+|第5章 类的封装|封装的概念、封装的好处、类与封装、访问修饰符|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch05/第5章%20类的封装.pptx)|
+|第6章 类的继承|继承的实现、方法重写、抽象类和接口、Object类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch06/第6章%20类的继承.pptx)|
+|第7章 多态|多态的概念、多态的实现|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch07/第7章%20多态.pptx)|
+|第8章 包装器类|包装器类的概念、包装器类型与基本数据类型的转换、自动装箱的概念、自动装箱引发的一系列问题|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch08/第8章%20包装器类.pptx)|
 
 
 
