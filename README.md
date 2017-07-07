@@ -17,6 +17,21 @@
 |第6章 类的继承|继承的实现、方法重写、抽象类和接口、Object类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch06/第6章%20类的继承.pptx)|
 |第7章 多态|多态的概念、多态的实现|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch07/第7章%20多态.pptx)|
 |第8章 包装器类|包装器类的概念、包装器类型与基本数据类型的转换、自动装箱的概念、自动装箱引发的一系列问题|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch08/第8章%20包装器类.pptx)|
+|第9章 内部类|概述、成员内部类、局部内部类、匿名内部类、静态内部类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%20内部类.pptx)|
+|第9章 补充static修饰符|静态方法、静态变量、静态类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%20补充%20static修饰符.pptx)|
+|第10章 枚举|枚举定义、基本用法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch10/第10章%20枚举.pptx)|
+|第11章 异常和断言|异常概述、异常处理机制、自定义异常、断言|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch11/第11章%20异常和断言.pptx)|
+|第12章 容器和泛型|容器概述、集合、迭代器、泛型|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch12/第12章%20容器和泛型.pptx)|
+|第13章 流与文件（一）|文件处理、I/O和流、字节流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%20流与文件（一）.pptx)|
+|第13章 流与文件（二）|字符流、对象流、其他常用流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%20流与文件（二）.pptx)|
+|第14章 字符串解析、日期格式化|字符串以及字符串的解析、日期、日期的格式化|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch14/第8章%20字符串解析、日期格式化.pptx)|
+|第15章 线程和多线程|线程简介、Java中创建多线程、多线程的同步和死锁|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch15/第15章%20线程和多线程.pptx)|
+|第16章 网络编程|网络编程基础、基于套接字的Java网络编程|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch16/第16章%20网络编程.pptx)|
+|第17章 图形界面编程|Java GUI 编程简介、Swing组件|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch17/第17章%20图形界面编程.pptx)|
+|第18章 反射|反射机制的概念以及原理、反射机制的具体实现|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch18/第18章%20反射.pptx)|
+|第19章 JDBC数据库连接技术|JDBC的概念和类型、JDBC中主要的类和接口、用JDBC进行数据库连接|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch19/第20章%20JDBC数据库连接技术.pptx)|
+|第19章 数据库连接池（补充）|为什么需要数据库连接池、什么是数据库连接池、如何实现数据库连接池|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch19/第20章_2%20数据库连接池（补充）.pptx)|
+
 
 
 
