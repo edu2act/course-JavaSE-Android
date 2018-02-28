@@ -31,6 +31,7 @@
 |第18章 反射|反射机制的概念以及原理、反射机制的具体实现|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch18/第18章%20反射.pptx)|
 |第19章 JDBC数据库连接技术|JDBC的概念和类型、JDBC中主要的类和接口、用JDBC进行数据库连接|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch19/第20章%20JDBC数据库连接技术.pptx)|
 |第19章 数据库连接池（补充）|为什么需要数据库连接池、什么是数据库连接池、如何实现数据库连接池|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch19/第20章_2%20数据库连接池（补充）.pptx)|
+|第20章 javac、java命令的使用（补充）|JDK环境配置中的环境变量、javac命令的使用、java命令的使用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch20/第21章_2%20javac、java命令的使用（补充）.pptx)|
 
 
 
