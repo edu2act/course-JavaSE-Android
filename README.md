@@ -17,8 +17,8 @@
 |第6章 类的继承|继承的实现、方法重写、抽象类和接口、Object类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch06/第6章%20类的继承.pptx)|
 |第7章 多态|多态的概念、多态的实现|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch07/第7章%20多态.pptx)|
 |第8章 包装器类|包装器类的概念、包装器类型与基本数据类型的转换、自动装箱的概念、自动装箱引发的一系列问题|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch08/第8章%20包装器类.pptx)|
-|第9章 内部类|概述、成员内部类、局部内部类、匿名内部类、静态内部类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%20内部类.pptx)|
-|第9章 补充static修饰符|静态方法、静态变量、静态类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%20补充%20static修饰符.pptx)|
+|第9章 内部类|概述、成员内部类、局部内部类、匿名内部类、静态内部类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%201_内部类.pptx)|
+|第9章 补充static修饰符|静态方法、静态变量、静态类|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09/第9章%202_static修饰符.pptx)|
 |第10章 枚举|枚举定义、基本用法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch10/第10章%20枚举.pptx)|
 |第11章 异常和断言|异常概述、异常处理机制、自定义异常、断言|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch11/第11章%20异常和断言.pptx)|
 |第12章 容器和泛型|容器概述、集合、迭代器、泛型|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch12/第12章%20容器和泛型.pptx)|
