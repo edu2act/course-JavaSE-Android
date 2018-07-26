@@ -22,8 +22,8 @@
 |第10章 枚举|枚举定义、基本用法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch10/第10章%20枚举.pptx)|
 |第11章 异常和断言|异常概述、异常处理机制、自定义异常、断言|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch11/第11章%20异常和断言.pptx)|
 |第12章 容器和泛型|容器概述、集合、迭代器、泛型|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch12/第12章%20容器和泛型.pptx)|
-|第13章 流与文件（一）|文件处理、I/O和流、字节流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%20流与文件（一）.pptx)|
-|第13章 流与文件（二）|字符流、对象流、其他常用流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%20流与文件（二）.pptx)|
+|第13章 流与文件（一）|文件处理、I/O和流、字节流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%201_流与文件（一）.pptx)|
+|第13章 流与文件（二）|字符流、对象流、其他常用流|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch13/第13章%202_流与文件（二）.pptx)|
 |第14章 字符串解析、日期格式化|字符串以及字符串的解析、日期、日期的格式化|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch14/第14章%20字符串解析、日期格式化.pptx)|
 |第15章 线程和多线程|线程简介、Java中创建多线程、多线程的同步和死锁|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch15/第15章%20线程和多线程.pptx)|
 |第16章 网络编程|网络编程基础、基于套接字的Java网络编程|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch16/第16章%20网络编程.pptx)|
